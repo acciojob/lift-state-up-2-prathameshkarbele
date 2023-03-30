@@ -1,1 +1,17 @@
 
+.App {
+    font-family: sans-serif;
+    text-align: center;
+  }
+  .parent {
+    background-color: chartreuse;
+    padding: 20px;
+  }
+  .child {
+    background-color: chocolate;
+    padding: 5px;
+  }
+  input {
+    padding: 10px;
+    margin: 10px;
+  }
